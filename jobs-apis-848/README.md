@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Job search, applications, alerts — "find jobs" / "apply" skills.
+
 **Organized APIs by Category**
 
 **848 APIs in this category**

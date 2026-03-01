@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Post, analyze, monitor — skills for "post to X" / "summarize engagement".
+
 **Organized APIs by Category**
 
 **3,268 APIs in this category**

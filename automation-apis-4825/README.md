@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Workflows, triggers, and webhooks the agent can start or react to. Ideal for cron + webhook automation.
+
 **Organized APIs by Category**
 
 **4,825 APIs in this category**

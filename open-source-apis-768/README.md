@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Prefer APIs that expose clear "do X" actions for skills.
+
 **Organized APIs by Category**
 
 **768 APIs in this category**

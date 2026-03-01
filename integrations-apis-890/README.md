@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Calendar, email, messaging, storage — natural "do this for me" APIs to expose as skills.
+
 **Organized APIs by Category**
 
 **890 APIs in this category**

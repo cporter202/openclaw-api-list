@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Listings, market data — "find properties" skills.
+
 **Organized APIs by Category**
 
 **851 APIs in this category**

@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Use where APIs expose automation or clear "do X" actions for skills.
+
 **Organized APIs by Category**
 
 **2 APIs in this category**

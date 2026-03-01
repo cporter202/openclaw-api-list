@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Contacts, outreach; use with care via skills (privacy/compliance).
+
 **Organized APIs by Category**
 
 **3,452 APIs in this category**

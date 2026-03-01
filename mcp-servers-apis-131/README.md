@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Plug in directly — OpenClaw can use MCP as a first-class integration. These APIs/servers are the best fit for adding tools to your assistant.
+
 **Organized APIs by Category**
 
 **131 APIs in this category**

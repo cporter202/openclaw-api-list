@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Headlines, summaries, feeds — "what's the news" / digest skills.
+
 **Organized APIs by Category**
 
 **590 APIs in this category**

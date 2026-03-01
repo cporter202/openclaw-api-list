@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Best for scriptable/HTTP-callable tools (e.g. deploy, docs, run tests) you can wrap as skills.
+
 **Organized APIs by Category**
 
 **2,652 APIs in this category**

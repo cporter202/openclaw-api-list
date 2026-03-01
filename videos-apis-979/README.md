@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Transcripts, search, metadata — "summarize video" / "find clip" skills.
+
 **Organized APIs by Category**
 
 **979 APIs in this category**

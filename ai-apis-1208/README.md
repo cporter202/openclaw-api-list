@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Extra models and agents the assistant can call; add API keys in `skills.entries.*.apiKey`.
+
 **Organized APIs by Category**
 
 **1,208 APIs in this category**

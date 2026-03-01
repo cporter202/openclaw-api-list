@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Book, search, compare — "plan my trip" / "find accommodation" skills.
+
 **Organized APIs by Category**
 
 **397 APIs in this category**

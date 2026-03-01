@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Keywords, rankings — "SEO report" / "keyword ideas" skills.
+
 **Organized APIs by Category**
 
 **710 APIs in this category**

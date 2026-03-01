@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Task APIs (research, content, jobs) — wrap as skills so your assistant can run them on demand.
+
 **Organized APIs by Category**
 
 **697 APIs in this category**

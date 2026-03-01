@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Price checks, product search, reviews — "find product" / "compare prices" skills.
+
 **Organized APIs by Category**
 
 **2,440 APIs in this category**

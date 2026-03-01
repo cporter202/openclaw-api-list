@@ -2,6 +2,8 @@
 
 <p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>
 
+**🦞 OpenClaw:** Audit case-by-case; keep only those that support skills, webhooks, or MCP.
+
 **Organized APIs by Category**
 
 **1,297 APIs in this category**
