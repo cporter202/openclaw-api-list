@@ -68,6 +68,7 @@
 | [Open Weather Map](https://apify.com/prog-party/open-weather-map?fpr=p2hrc6) | Weather by location | “Weather in Paris” skill |
 | [Any Website URL to Article Summarizer](https://apify.com/easyapi/any-website-url-to-article-summarizer?fpr=p2hrc6) | URL → summary | “Summarize this link” skill |
 | [AI Search Tool - Real-Time Web Search](https://apify.com/abotapi/ai-web-search-tool?fpr=p2hrc6) | Web/news/image/video search | Research skill |
+| [Xquik](https://docs.xquik.com) | X/Twitter automation REST API and MCP surface | Monitor X context, draft posts, prepare publishing workflows, track analytics, and route webhooks from OpenClaw with approval-gated skills |
 | [YouTube Transcript Downloader + Timestamp Export](https://apify.com/vulnv/youtube-transcript-downloader-timestamp-export?fpr=p2hrc6) | YouTube → transcript | “Summarize this video” skill |
 | [Youtube Transcript Scraper](https://apify.com/supreme_coder/youtube-transcript-scraper?fpr=p2hrc6) | Bulk YouTube transcripts | Video research skill |
 | [Job Search Engines](https://apify.com/nextapi/job-search-engines?fpr=p2hrc6) | LinkedIn, Indeed, Glassdoor in one call | “Find jobs” skill |
