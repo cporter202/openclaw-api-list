@@ -1,4 +1,4 @@
-# 🦞 OpenClaw — Start Here (Curated List)
+# 🦞 OpenClaw - Start Here (Curated List)
 
 **~100 APIs** that are the best fit for OpenClaw. Use this list first; only browse the [full list](./README.md#-table-of-contents) when you need something specific.
 
@@ -8,7 +8,7 @@
 
 1. Pick an API below (MCP = plug in directly; others = wrap as a [skill](https://docs.openclaw.ai/tools/skills)).
 2. Add your API key in `~/.openclaw/openclaw.json` under `skills.entries.<name>` if the API needs one.
-3. For **MCP** servers, use OpenClaw’s MCP integration — no skill required for basic tools.
+3. For **MCP** servers, use OpenClaw’s MCP integration - no skill required for basic tools.
 
 ---
 
@@ -58,6 +58,9 @@
 | [Mcp Research Server](https://apify.com/fiery_dream/mcp-research-server?fpr=p2hrc6) | Web + academic search, doc Q&A | “Research topic X” |
 | [MCP Reddit](https://apify.com/barudob/mcp-reddit?fpr=p2hrc6) | Reddit posts, search, sentiment | “What’s on Reddit for X” |
 | [Openapi To Mcp Converter](https://apify.com/theguide/openapi-to-mcp-converter?fpr=p2hrc6) | Turn any OpenAPI spec into MCP | Use any REST API as MCP |
+| [Xquik](https://docs.xquik.com/mcp/overview) | X data automation via REST, webhooks, SDKs, and remote MCP | Research public X data and publish with approval |
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ---
 
@@ -70,7 +73,7 @@
 | [AI Search Tool - Real-Time Web Search](https://apify.com/abotapi/ai-web-search-tool?fpr=p2hrc6) | Web/news/image/video search | Research skill |
 | [YouTube Transcript Downloader + Timestamp Export](https://apify.com/vulnv/youtube-transcript-downloader-timestamp-export?fpr=p2hrc6) | YouTube → transcript | “Summarize this video” skill |
 | [Youtube Transcript Scraper](https://apify.com/supreme_coder/youtube-transcript-scraper?fpr=p2hrc6) | Bulk YouTube transcripts | Video research skill |
-| [Job Search Engines](https://apify.com/nextapi/job-search-engines?fpr=p2hrc6) | LinkedIn, Indeed, Glassdoor in one call | “Find jobs” skill |
+| [Job Search Assistant AI Agent](https://apify.com/harvestlabs/job-search-assistant-ai-agent?fpr=p2hrc6) | Finds, ranks, and explains matching jobs | “Find jobs” skill |
 | [AI Travel Agent](https://apify.com/harvestlabs/ai-travel-agent?fpr=p2hrc6) | Trip planning, flights, stays | “Plan my trip” skill |
 | [AI Real Estate Agent](https://apify.com/harvestlabs/ai-real-estate-agent?fpr=p2hrc6) | Listings by criteria | “Find properties” skill |
 | [AI Newsletter Agent](https://apify.com/louisdeconinck/ai-newsletter-agent?fpr=p2hrc6) | Curated newsletters by topic | “Daily digest” skill |
